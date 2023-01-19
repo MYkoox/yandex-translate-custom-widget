@@ -11,7 +11,7 @@
 .lang_fixed {
     position: fixed;
     right: 20px;
-    top: 20px;
+    top: 50%;
 }
 
 .lang__link {
